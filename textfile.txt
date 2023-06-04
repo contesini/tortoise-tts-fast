@@ -1,0 +1,5 @@
+A revisão criminal no Brasil é um instrumento legal que visa corrigir possíveis erros ou injustiças ocorridos em um processo criminal já encerrado.
+
+Ela é uma via excepcional e possui requisitos específicos para sua admissibilidade, a fim de evitar abusos e garantir a estabilidade das decisões judiciais.
+é necessário que existam fundamentos plausíveis que indiquem a possibilidade de uma injustiça ter sido cometida. Esses fundamentos podem ser baseados em novas provas, fatos relevantes desconhecidos no momento do julgamento original, vícios processuais ou violações de direitos fundamentais.
+No Brasil, a revisão criminal está prevista no Código de Processo Penal, em seu artigo 621. Esse dispositivo legal estabelece as hipóteses em que a revisão pode ser solicitada, como a descoberta de novas provas de inocência, a existência de uma sentença condenatória baseada em falsa prova ou a demonstração de que a decisão condenatória foi obtida por meio de fraude processual.
